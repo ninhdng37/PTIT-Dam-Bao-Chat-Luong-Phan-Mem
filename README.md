@@ -83,6 +83,7 @@ Lớp mình học:
 
 Lớp còn lại:
 > Môi trường vận hành là gì ? Vì sao việc lấy ý kiến từ môi trường vận hành rất quan trọng ?
+> Lớp D19PM1: Cần làm gì để có được thông tin cộng tác tốt trong cộng đồng phát triển phần mềm gồm các chuyên gia có chuyên môn khác nhau? Mô tả các bước cần thực hiện và giải thích lý do cần thực hiện mỗi bước dựa trên kiến thức nội dung môn học này.
 
 Cả lớp sẽ được làm trong vòng 1 tiếng và được mở tài liệu thả cửa.
 
